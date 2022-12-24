@@ -1,0 +1,14 @@
+<svg viewBox="0 0 800 500" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" id="blobSvg">
+  <g transform="translate(149.20191955566406, 1.8603591918945312)">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" style="stop-color: rgb(172, 172, 172);"></stop>
+        <stop offset="100%" style="stop-color: rgb(208, 0, 0);"></stop>
+      </linearGradient>
+    </defs>
+    <path fill="url(#gradient)" ><animate></animate>
+    <animate attributeName = "d" dur = "20000ms" repeatCount = "indefinite"
+    values ="M406,336Q422,422,336,436.5Q250,451,202,398.5Q154,346,86,298Q18,250,76.5,192.5Q135,135,192.5,129.5Q250,124,336,101Q422,78,406,164Q390,250,406,336Z;"> </animate>
+    </path>
+  </g>
+</svg>
